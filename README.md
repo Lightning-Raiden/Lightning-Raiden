@@ -23,7 +23,6 @@
 </div>
 
 ##
-<br/>
 
 - 🔭 I’m currently working on **acquiring more knowledge**.
 - 🌱 I’m currently learning **Python**.
