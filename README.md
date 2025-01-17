@@ -2,10 +2,10 @@
 ### Feel free to check my work! 😉
 
 <div>
-  <a href="https://github.com/Lightning-Raiden/github-readme-stats">
+  <a href="https://github.com/Lightning-Raiden/">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Lightning-Raiden&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/Lightning-Raiden/convoychat">
+  <a href="https://github.com/Lightning-Raiden/">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lightning-Raiden&theme=radical&layout=compact&langs_count=8&card_width=370" />
   </a>
 </div><br/>
