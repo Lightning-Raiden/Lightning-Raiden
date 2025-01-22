@@ -26,12 +26,12 @@
 
 - 🔭 I’m currently working on **acquiring more knowledge**.
 - 🌱 I’m currently learning **Python**.
-- 📫 How to reach me: eric.filgueiras@gmail.com
+- 📫 How to reach me: ericfilgueiras.contato@gmail.com
 - ⚡ Fun fact: I'm actually Brazilian, and speak Portuguese(PT-BR) fluently.
 
 ##
 
 <div>
-  <a href="mailto:eric.filgueiras@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ericfilgueiras.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/eric-filgueiras-90395128b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
