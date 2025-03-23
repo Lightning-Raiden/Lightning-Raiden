@@ -27,7 +27,6 @@
 - 🔭 I’m currently working on **acquiring more knowledge**.
 - 🌱 I’m currently learning **Python**.
 - 📫 How to reach me: ericfilgueiras.contato@gmail.com
-- ⚡ Fun fact: I'm actually Brazilian, and speak Portuguese(PT-BR) fluently.
 
 ##
 
