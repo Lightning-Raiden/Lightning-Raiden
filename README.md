@@ -19,6 +19,7 @@
   <img align="center" alt="logo-angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
   <img align="center" alt="logo-ionic" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg">
   <img align="center" alt="logo-python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="logo-python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="logo-php" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 </div>
 
