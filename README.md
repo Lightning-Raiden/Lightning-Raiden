@@ -26,7 +26,7 @@
 ##
 
 - 🔭 I’m currently working on **acquiring more knowledge**.
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **Python** and **Django**.
 - 📫 How to reach me: ericfilgueiras.contato@gmail.com
 
 ##
